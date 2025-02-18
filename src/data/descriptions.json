@@ -1,0 +1,11 @@
+[
+  { "time": 0, "description": "Enough time to heat a glass of milk in a microwave" },
+  { "time": 15, "description": "Enough time to enjoy a nice pepperoni pizza" },
+  { "time": 90, "description": "Enough time to watch George of the Jungle, what a classic!" },
+  { "time": 180, "description": "Enough time to have a nice date" },
+  { "time": 480, "description": "Enough time to finish your daily shift at your office" },
+  { "time": 960, "description": "Enough time to enjoy a nice mountain day trip with you friends" },
+  { "time": 2200, "description": "Enough time to watch the entire Cobra Kai TV show" },
+  { "time": 9100, "description": "Enough time to go to the moon and back with a spaceship" },
+  { "time": 16200, "description": "Enough time to play the whole Kingdom Hearts series" }
+]

@@ -1,0 +1,43 @@
+.stop {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  position: relative;
+}
+
+.stop label {
+  width: 100%;
+  text-align: start;
+  margin-left: 8px;
+}
+
+.suggestions {
+  border: 1px solid var(--textColor2);
+  list-style: none;
+  padding: 0px;
+  position: absolute;
+  top: 40px;
+  border-radius: 8px;
+  z-index: 10;
+  overflow: auto;
+  width: 100%;
+}
+
+.suggestions li {
+  padding: 8px;
+  cursor: pointer;
+}
+
+.suggestions li:nth-child(odd) {
+  background-color: var(--backgroundColor);
+}
+
+.suggestions li:nth-child(even) {
+  background-color: rgb(36, 36, 36);
+}
+
+.suggestions li:hover {
+  background-color: rgb(55, 55, 55);
+}

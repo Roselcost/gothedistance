@@ -1,0 +1,44 @@
+.transport {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  box-sizing: border-box;
+  gap: 8px;
+}
+
+.details {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  align-items: center;
+  text-align: center;
+  height: 90px;
+  width: 100%;
+}
+
+.description {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  gap: 8px;
+}
+
+.description-data {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.icon {
+  font-size: 20px;
+}
+
+.new-transport {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  text-align: center;
+}

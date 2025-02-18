@@ -1,0 +1,21 @@
+[
+  { "name": "Walking", "speed": 5, "emoji": "🚶" },
+  { "name": "Bike", "speed": 20, "emoji": "🚲" },
+  { "name": "Car", "speed": 120, "emoji": "🚗" },
+  { "name": "Plane", "speed": 900, "emoji": "✈️" },
+
+  { "name": "Turtle", "speed": 1.5, "emoji": "🐢" },
+  { "name": "Chocobo", "speed": 20, "emoji": "🐥" },
+  { "name": "Golden eagle", "speed": 50, "emoji": "🦅" },
+  { "name": "Cheetah", "speed": 64, "emoji": "🐆" },
+  { "name": "Sonic the Hedgehog", "speed": 1234, "emoji": "👟" },
+
+  { "name": "Skateboard", "speed": 15, "emoji": "🛹" },
+  { "name": "Sled", "speed": 30, "emoji": "🛷" },
+  { "name": "Renfe", "speed": 30, "emoji": "💩" },
+  { "name": "Takumi Fujiwara", "speed": 250, "emoji": "🚓" },
+  { "name": "Shinkansen", "speed": 300, "emoji": "🚅" },
+  { "name": "Formula 1", "speed": 320, "emoji": "🏎️" },
+  { "name": "Apollo 11", "speed": 40000, "emoji": "🚀" },
+  { "name": "Millenium Falcon", "speed": 1079000000, "emoji": "🛸" }
+]

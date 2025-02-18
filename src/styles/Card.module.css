@@ -1,0 +1,27 @@
+.card {
+  width: 100%;
+  border-radius: 8px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  background: linear-gradient(
+    to bottom,
+    var(--borderColor) 0%,
+    black 20%,
+    black 100%
+  );
+  border: 1px solid black;
+  position: relative;
+}
+
+.content {
+  width: 100%;
+  height: 100%;
+  padding: 8px;
+  margin: 1px 0 0 0;
+  border-radius: 8px;
+  background-color: var(--backgroundColor);
+  box-sizing: border-box;
+}
