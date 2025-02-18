@@ -4,7 +4,7 @@ import Particles from "./Particles";
 function Mapp() {
   return (
     <>
-      <img className={styles["map-img"]} src="src/assets/tokyo.jpg"></img>;
+      <img className={styles["map-img"]} src="gothedistance/tokyo.jpg"></img>;
       <Particles></Particles>
     </>
   );
